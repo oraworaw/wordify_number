@@ -1,3 +1,3 @@
-library humanize;
+library wordify_number;
 
-export 'package:humanize/src/humanize.dart';
+export 'package:wordify_number/src/humanize.dart';

@@ -1,4 +1,4 @@
-import 'package:humanize/humanize.dart' as humanize;
+import 'package:wordify_number/humanize.dart' as humanize;
 
 void main() {
   print(humanize.appNumber(1)); // one
